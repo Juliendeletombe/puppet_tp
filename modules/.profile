@@ -3,7 +3,7 @@
 
 echo "hello from kermit !"
 
-CAT << "EOF"
+cat << "EOF"
 
           .---.     .---.
          ( -o- )---( -o- )
