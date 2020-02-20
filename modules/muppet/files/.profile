@@ -1,5 +1,5 @@
 
-#!bin/sh
+#!/bin/sh
 
 echo "hello from kermit !"
 

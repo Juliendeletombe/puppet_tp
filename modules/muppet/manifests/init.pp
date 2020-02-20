@@ -9,7 +9,7 @@ class muppet {
       ensure => present,
       gid => 'kermit',
       home => "/home/kermit",
-      shell => "bin/bash",
+      shell => "/bin/bash",
       
     }
 
