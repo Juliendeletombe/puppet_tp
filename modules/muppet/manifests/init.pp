@@ -22,7 +22,7 @@ class muppet {
 
     file { "/home/kermit/.profile":
       ensure => file,
-      source => "puppet:///modules/muppet/.profile'",
+      source => "puppet:///modules/muppet/.profile",
       owner => 'kermit',
       group => 'kermit',
       }
