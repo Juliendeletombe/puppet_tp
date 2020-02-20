@@ -4,5 +4,5 @@ node default {
 }
 
 node agent-muppet {
-	include muppet
+	include muppetname
 }
